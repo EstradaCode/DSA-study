@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysExercises;
 
 public class TwoSums {
     //primer intento 70s time complexity O(n²)
